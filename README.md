@@ -1,7 +1,6 @@
 # TA26-Ejercicio3
 
-enlace de Heroku: https://ta26-3.herokuapp.com/login  
-
+enlace de Heroku: https://ta26-3.herokuapp.com/
 Cajeros  
 GET       /api/cajeros 
 POST      /api/cajeros  
